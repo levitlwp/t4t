@@ -1,0 +1,23 @@
+.nav-brand-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-bd {
+  background-image: linear-gradient(to right,
+                                    rgba(0,0,0,.2),
+                                    rgba(0,0,0,.2)),
+                    url('img/hero1.jpg');
+  background-size: cover;
+  background-position: center center;
+}
+
+.avatar {
+  float: left;
+  margin-right: .6rem;
+}
+.avatar-header {
+  /* float: left; */
+}
+

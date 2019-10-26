@@ -13,11 +13,11 @@
   background-position: center center;
 }
 
-.avatar {
-  float: left;
-  margin-right: .6rem;
-}
-.avatar-header {
-  /* float: left; */
+.user-info {
+  display: flex;
+  align-items: center;
 }
 
+.user-header {
+  margin-left: .8rem;
+}

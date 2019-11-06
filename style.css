@@ -2,6 +2,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-right: 1rem;
 }
 
 .hero-bd {
@@ -27,4 +28,10 @@
 
 .header-margin-bottom {
   margin-bottom: 3rem;
+}
+
+.logo-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
